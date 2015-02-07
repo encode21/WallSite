@@ -20,7 +20,7 @@ class Wall extends CI_Controller {
 	public function index()
 	{
 		echo "<center><h1>Welcome to Karya Gue</h1></center>";
-		echo "HAHAHAH";
+		echo "Ikkeh kimochi";
 	}
 }
 
